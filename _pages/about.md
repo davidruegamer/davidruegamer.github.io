@@ -17,4 +17,6 @@ I am a Postdoctoral Researcher associated with the Computational Statistcs Group
 
 My current research involves the development of uncertainty quantification approaches for statistical and machine learning models and unification of concepts from statistics and deep learning. 
 
+![](/assets/images/posts/ai.jpg)
+
 Besides research I am a sports enthusiast dedicating most of my free time to weight lifting, HIIT, swimming and other activities. I also like to travel, read about food science and study new languages (atm forgetting everything I've learned in Korean and start practicing Chinese).

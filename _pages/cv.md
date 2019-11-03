@@ -16,7 +16,7 @@ Experience
 
 __01.2020 - future__<br/>
 LMU Munich<br/>
-Postdoctoral Research Fellow & Senior Lecturer
+Postdoctoral Research Fellow & Lecturer
 
 __01.2019 - today__<br/>
 CYOSS GmbH<br/>

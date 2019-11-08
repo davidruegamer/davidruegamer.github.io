@@ -15,7 +15,8 @@ Publications
 ---------------
 
 <ul>
-<li> <b>R&uuml;gamer</b>, Baumann, Greven (2019+): Selective Inference for Additive and Mixed Models. <i>In Progress.</i></li>  
+<li> Berninger, Stoecker, <b>R&uuml;gamer</b> (2019+): A Bayesian Time-Varying Autoregressive Model for Improved Short- and Long-Term Prediction. <i>In Progress.</i></li>
+<li> <b>R&uuml;gamer</b>, Baumann, Greven (2019+): Selective Inference for Additive and Mixed Models. <i>In Progress.</i></li>
 <li> <b>R&uuml;gamer</b>, Greven (2018): <a href="https://arxiv.org/abs/1805.01852">Inference for L2-Boosting.</a> <i>To appear in the Journal Statistics and Computing.</i></li>
 <li> <b>R&uuml;gamer</b>, Greven (2018): <a href="https://www.sciencedirect.com/science/article/pii/S0167715218301640">Selective inference after likelihood- or test-based model selection in linear models.</a> <i>Statistics & Probability Letters. Volume 140, Pages 7-12.</i> </li>
   <li> S&auml;fken, <b>R&uuml;gamer</b>, Kneib, Greven (2018): <a href="https://arxiv.org/abs/1803.05664">Conditional Model Selection in Mixed-Effects Models with cAIC4.</a> <i>To appear in the Journal of Statistical Software.</i> </li>
@@ -30,7 +31,7 @@ Detection of Synchronisation in Bioelectrical Signals.</a> <i>Journal of the Roy
 Software (R-packages)
 ---------------
 
-+ `selfmade`  *SELective inference For Mixed and ADditive model Estimators* coming soon 
++ `selfmade`  *SELective inference For Mixed and ADditive model Estimators* on [Github](https://github.com/davidruegamer/selfmade/)and soon on CRAN.
 + `FDboost`  *Boosting Functional Regression Models* on [CRAN](https://cran.r-project.org/web/packages/FDboost/index.html) and [github](https://github.com/boost-R/FDboost)
 + `cAIC4`  *Conditional Akaike Information Criterion for 'lme4'* on [CRAN](https://cran.r-project.org/web/packages/cAIC4/index.html) and [github](https://github.com/davidruegamer/cAIC4dev)
 + `iboost`  *Inference for Model-based Boosting* on [github](https://github.com/davidruegamer/iboost)

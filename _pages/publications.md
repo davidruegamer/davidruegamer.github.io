@@ -31,7 +31,7 @@ Detection of Synchronisation in Bioelectrical Signals.</a> <i>Journal of the Roy
 Software (R-packages)
 ---------------
 
-+ `selfmade`  *SELective inference For Mixed and ADditive model Estimators* on [Github](https://github.com/davidruegamer/selfmade/) and soon on CRAN.
++ `selfmade`  *SELective inference For Mixed and ADditive model Estimators* on [github](https://github.com/davidruegamer/selfmade/) and soon on CRAN.
 + `FDboost`  *Boosting Functional Regression Models* on [CRAN](https://cran.r-project.org/web/packages/FDboost/index.html) and [github](https://github.com/boost-R/FDboost)
 + `cAIC4`  *Conditional Akaike Information Criterion for 'lme4'* on [CRAN](https://cran.r-project.org/web/packages/cAIC4/index.html) and [github](https://github.com/davidruegamer/cAIC4dev)
 + `iboost`  *Inference for Model-based Boosting* on [github](https://github.com/davidruegamer/iboost)

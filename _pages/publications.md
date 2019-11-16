@@ -15,7 +15,7 @@ Publications
 ---------------
 
 <ul>
-<li> Berninger, Stoecker, <b>R&uuml;gamer</b> (2019+): A Bayesian Time-Varying Autoregressive Model for Improved Short- and Long-Term Prediction. <i>In Progress.</i></li>
+<li> Berninger, St&ouml;cker, <b>R&uuml;gamer</b> (2019+): A Bayesian Time-Varying Autoregressive Model for Improved Short- and Long-Term Prediction. <i>In Progress.</i></li>
 <li> <b>R&uuml;gamer</b>, Baumann, Greven (2019+): Selective Inference for Additive and Mixed Models. <i>In Progress.</i></li>
 <li> <b>R&uuml;gamer</b>, Greven (2018): <a href="https://arxiv.org/abs/1805.01852">Inference for L2-Boosting.</a> <i>To appear in the Journal Statistics and Computing.</i></li>
 <li> <b>R&uuml;gamer</b>, Greven (2018): <a href="https://www.sciencedirect.com/science/article/pii/S0167715218301640">Selective inference after likelihood- or test-based model selection in linear models.</a> <i>Statistics & Probability Letters. Volume 140, Pages 7-12.</i> </li>

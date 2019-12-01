@@ -1,5 +1,5 @@
 ---
-title: Update on our cAIC4 package
+title: Update of our cAIC4 package
 layout: single
 header:
   overlay_image: /assets/images/changcheng.jpg

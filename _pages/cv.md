@@ -14,11 +14,11 @@ author_profile: true
 Experience
 ---------------
 
-__01.2020 - future__<br/>
+__01.2020 - today__<br/>
 LMU Munich<br/>
 Postdoctoral Research Fellow & Lecturer
 
-__01.2019 - today__<br/>
+__01.2019 - 12.2019__<br/>
 CYOSS GmbH<br/>
 Senior Data Scientist
 

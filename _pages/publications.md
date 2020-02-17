@@ -15,8 +15,10 @@ Publications
 ---------------
 
 <ul>
-<li> Berninger, St&ouml;cker, <b>R&uuml;gamer</b> (2019+): A Bayesian Time-Varying Autoregressive Model for Improved Short- and Long-Term Prediction. <i>In Progress.</i></li>
-<li> <b>R&uuml;gamer</b>, Baumann, Greven (2019+): Selective Inference for Additive and Mixed Models. <i>In Progress.</i></li>
+<li> Berninger, St&ouml;cker, <b>R&uuml;gamer</b> (2020): A Bayesian Time-Varying Autoregressive Model for Improved Short- and Long-Term Prediction. <i>In Progress.</i></li>
+<li> <b>R&uuml;gamer</b>, Baumann, Greven (2020): Selective Inference for Additive and Mixed Models. <i>In Progress.</i></li>
+<li> <b>R&uuml;gamer</b>, Kolb and Klein (2020): <a href="https://arxiv.org/abs/2002.05777">A Unifying Network Architecture for Semi-Structured Deep Distributional Learning.</a> <i>Under Review.</i></li>
+<li> Liew, <b>R&uuml;gamer</b>, De Nunzio, Falla (2020): Interpretable machine learning models for classifying low back pain status using functional physiological variables. <i>To appear in the European Spine Journal.</i></li>
 <li> Liew, <b>R&uuml;gamer</b>, St&ouml;cker, De Nunzio (2020): Classifying neck pain status using scalar and functional biomechanical variables - development of a method using functional data boosting. <i>To appear in Gait and Posture.</i></li>
 <li> <b>R&uuml;gamer</b>, Greven (2018): <a href="https://arxiv.org/abs/1805.01852">Inference for L2-Boosting.</a> <i>To appear in Statistics and Computing.</i></li>
 <li> <b>R&uuml;gamer</b>, Greven (2018): <a href="https://www.sciencedirect.com/science/article/pii/S0167715218301640">Selective inference after likelihood- or test-based model selection in linear models.</a> <i>Statistics & Probability Letters. Volume 140, Pages 7-12.</i> </li>
@@ -44,10 +46,11 @@ Software (R-packages)
 Talks and Workshops
 ---------------
 
++ __26. February '20 (Munich, GER)__ Semi-Structured Deep Distributional Learning. *Institutskolloquium, Department of Statistics, LMU Munich*
 + __21. March '19 (Munich, GER)__ Inference for L2-Boosting, DAGSTAT 2019, Machine Learning Session
 + __15. June '18 (Munich, GER)__ Estimation, Model Choice and Subsequent Inference: Methods for Additive and Functional Regression Models. *Doctoral Dissertation Defense*
 + __26. - 28. March 2018 (Frankfurt a.M., GER)__ Boosting Factor-Specific Functional Historical Models. *Award Session, 64th Biometric Colloquium*
 + __16. - 18. December 2017 (London, UK)__ Selective Inference for L2-Boosting. *10th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2017)*
 + __23. - 25. July 2017 (Reisensburg, GER)__ Boosting functional regression models with FDboost. *Statistical Computing 2017*
 + __9. - 11. December 2016 (Seville, ESP)__ Boosting Factor-Specific Functional Historical Models. *9th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2016)*
-+ __30. November 2016 (Munich, GER)__ Selective Inference for L2-Boosting. *Institutskolloquium, Department of Statistics LMU Munich*
++ __30. November 2016 (Munich, GER)__ Selective Inference for L2-Boosting. *Institutskolloquium, Department of Statistics LMU, Munich*

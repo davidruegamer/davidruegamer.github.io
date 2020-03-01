@@ -20,7 +20,7 @@ Publications
 <li> <b>R&uuml;gamer</b>, Kolb and Klein (2020): <a href="https://arxiv.org/abs/2002.05777">A Unifying Network Architecture for Semi-Structured Deep Distributional Learning.</a> <i>Under Review.</i></li>
 <li> Liew, <b>R&uuml;gamer</b>, De Nunzio, Falla (2020): Interpretable machine learning models for classifying low back pain status using functional physiological variables. <i>To appear in the European Spine Journal.</i></li>
 <li> Liew, <b>R&uuml;gamer</b>, St&ouml;cker, De Nunzio (2020): Classifying neck pain status using scalar and functional biomechanical variables - development of a method using functional data boosting. <i>To appear in Gait and Posture.</i></li>
-<li> <b>R&uuml;gamer</b>, Greven (2018): <a href="https://arxiv.org/abs/1805.01852">Inference for L2-Boosting.</a> <i>To appear in Statistics and Computing.</i></li>
+<li> <b>R&uuml;gamer</b>, Greven (2020): <a href="https://doi.org/10.1007/s11222-019-09882-0">Inference for L2-Boosting.</a> <i>Statistics and Computing volume 30, 279-289.</i></li>
 <li> <b>R&uuml;gamer</b>, Greven (2018): <a href="https://www.sciencedirect.com/science/article/pii/S0167715218301640">Selective inference after likelihood- or test-based model selection in linear models.</a> <i>Statistics & Probability Letters. Volume 140, Pages 7-12.</i> </li>
   <li> S&auml;fken, <b>R&uuml;gamer</b>, Kneib, Greven (2018): <a href="https://arxiv.org/abs/1803.05664">Conditional Model Selection in Mixed-Effects Models with cAIC4.</a> <i>To appear in the Journal of Statistical Software.</i> </li>
   <li> <b>R&uuml;gamer</b>, Brockhaus, Gentsch, Scherer, Greven (2018): <a href="http://arxiv.org/abs/1609.06070">Boosting Factor-Specific Functional Historical Models for the

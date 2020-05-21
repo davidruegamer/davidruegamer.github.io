@@ -15,7 +15,8 @@ Publications
 ---------------
 
 <ul>
-<li> Berninger, St&ouml;cker, <b>R&uuml;gamer</b> (2020): A Bayesian Time-Varying Autoregressive Model for Improved Short- and Long-Term Prediction. <i>In Progress.</i></li>
+<li> Liew, <b>R&uuml;gamer</b>, Abichandani, De Nunzio (2020): Classifying individuals with and without Patellofemoral Pain Syndrome using ground force profiles – development of a method using functional data boosting. <i>To appear in Gait and Posture.</i></li>
+<li> Berninger, St&ouml;cker, <b>R&uuml;gamer</b> (2020): A Bayesian Time-Varying Autoregressive Model for Improved Short- and Long-Term Prediction. <i>Preprint.</i></li>
 <li> <b>R&uuml;gamer</b>, Baumann, Greven (2020): Selective Inference for Additive and Mixed Models. <i>In Progress.</i></li>
 <li> <b>R&uuml;gamer</b>, Kolb and Klein (2020): <a href="https://arxiv.org/abs/2002.05777">A Unifying Network Architecture for Semi-Structured Deep Distributional Learning.</a> <i>Under Review.</i></li>
 <li> Liew, <b>R&uuml;gamer</b>, De Nunzio, Falla (2020): Interpretable machine learning models for classifying low back pain status using functional physiological variables. <i>To appear in the European Spine Journal.</i></li>
@@ -34,6 +35,7 @@ Detection of Synchronisation in Bioelectrical Signals.</a> <i>Journal of the Roy
 Software (R-packages)
 ---------------
 
++ `deepregression` *Semi-Strutured Deep Distrobutional regression* coming soon
 + `selfmade`  *SELective inference For Mixed and ADditive model Estimators* on [github](https://github.com/davidruegamer/selfmade/) and soon on CRAN.
 + `FDboost`  *Boosting Functional Regression Models* on [CRAN](https://cran.r-project.org/web/packages/FDboost/index.html) and [github](https://github.com/boost-R/FDboost)
 + `cAIC4`  *Conditional Akaike Information Criterion for 'lme4'* on [CRAN](https://cran.r-project.org/web/packages/cAIC4/index.html) and [github](https://github.com/davidruegamer/cAIC4dev)
@@ -54,3 +56,9 @@ Talks and Workshops
 + __23. - 25. July 2017 (Reisensburg, GER)__ Boosting functional regression models with FDboost. *Statistical Computing 2017*
 + __9. - 11. December 2016 (Seville, ESP)__ Boosting Factor-Specific Functional Historical Models. *9th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2016)*
 + __30. November 2016 (Munich, GER)__ Selective Inference for L2-Boosting. *Institutskolloquium, Department of Statistics LMU, Munich*
+
+Recent Reviewer Activities
+---------------
++ ECML-PKKD 2020 (Research Track)
++ Artificial Intelligence in Medicine (Journal)
++ Biostatistics (Journal)

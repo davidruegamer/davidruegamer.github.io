@@ -210,8 +210,4 @@ defaults:
       share: true
       related: false
       tagby: false
-  - scope:
-      path: ""
-      type: pages
-    values:
-      tagby: false
+      future: true

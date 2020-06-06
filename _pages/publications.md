@@ -15,8 +15,8 @@ Publications
 ---------------
 
 <ul>
-<li> Liew, <b>R&uuml;gamer</b>, Abichandani, De Nunzio (2020): Classifying individuals with and without Patellofemoral Pain Syndrome using ground force profiles – development of a method using functional data boosting. <i>To appear in Gait and Posture.</i></li>
-<li> Berninger, St&ouml;cker, <b>R&uuml;gamer</b> (2020): A Bayesian Time-Varying Autoregressive Model for Improved Short- and Long-Term Prediction. <i>Preprint.</i></li>
+<li> Bender, <b>R&uuml;gamer</b>, Scheipl, Bischl (2020): A General Machine Learning Framework for Survival Analysis. <i>ECML-PKDD 2020.</i></li>
+<li> Berninger, St&ouml;cker, <b>R&uuml;gamer</b> (2020): A Bayesian Time-Varying Autoregressive Model for Improved Short- and Long-Term Prediction. <i>Under Revision.</i></li>
 <li> <b>R&uuml;gamer</b>, Baumann, Greven (2020): Selective Inference for Additive and Mixed Models. <i>In Progress.</i></li>
 <li> <b>R&uuml;gamer</b>, Kolb and Klein (2020): <a href="https://arxiv.org/abs/2002.05777">A Unifying Network Architecture for Semi-Structured Deep Distributional Learning.</a> <i>Under Review.</i></li>
 <li> Liew, <b>R&uuml;gamer</b>, De Nunzio, Falla (2020): Interpretable machine learning models for classifying low back pain status using functional physiological variables. <i>To appear in the European Spine Journal.</i></li>
@@ -45,10 +45,11 @@ Software (R-packages)
 
 
 
-Talks and Workshops
+Talks, Workshops and Research Stays
 ---------------
 
 + __26. February '20 (Munich, GER)__ Semi-Structured Deep Distributional Learning. *Institutskolloquium, Department of Statistics, LMU Munich*
++ __January '20 (Xiamen, CHN)__ Short research stay and exchange with several people involved in the DFG RTG group [High Dimensional Nonstationary Time Series](https://www.wiwi.hu-berlin.de/de/forschung/irtg/)  
 + __21. March '19 (Munich, GER)__ Inference for L2-Boosting, DAGSTAT 2019, Machine Learning Session
 + __15. June '18 (Munich, GER)__ Estimation, Model Choice and Subsequent Inference: Methods for Additive and Functional Regression Models. *Doctoral Dissertation Defense*
 + __26. - 28. March 2018 (Frankfurt a.M., GER)__ Boosting Factor-Specific Functional Historical Models. *Award Session, 64th Biometric Colloquium*

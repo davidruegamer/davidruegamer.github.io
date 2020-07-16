@@ -15,10 +15,10 @@ Publications
 ---------------
 
 <ul>
-<li> Bender, <b>R&uuml;gamer</b>, Scheipl, Bischl (2020): A General Machine Learning Framework for Survival Analysis. <i>ECML-PKDD 2020.</i></li>
+<li> Bender, <b>R&uuml;gamer</b>, Scheipl, Bischl (2020): <a href="http://arxiv.org/abs/2006.15442">A General Machine Learning Framework for Survival Analysis.</a> <i>ECML-PKDD 2020.</i></li>
 <li> Berninger, St&ouml;cker, <b>R&uuml;gamer</b> (2020): A Bayesian Time-Varying Autoregressive Model for Improved Short- and Long-Term Prediction. <i>Under Revision.</i></li>
-<li> <b>R&uuml;gamer</b>, Baumann, Greven (2020): Selective Inference for Additive and Mixed Models. <i>In Progress.</i></li>
-<li> <b>R&uuml;gamer</b>, Kolb and Klein (2020): <a href="https://arxiv.org/abs/2002.05777">A Unifying Network Architecture for Semi-Structured Deep Distributional Learning.</a> <i>Under Review.</i></li>
+<li> <b>R&uuml;gamer</b>, Baumann, Greven (2020): Selective Inference for Additive and Mixed Models. <i>Under Revision.</i></li>
+<li> <b>R&uuml;gamer</b>, Kolb and Klein (2020): <a href="https://arxiv.org/abs/2002.05777">A Unified Network Architecture for Semi-Structured Deep Distributional Regression.</a> <i>Under Revision.</i></li>
 <li> Liew, <b>R&uuml;gamer</b>, De Nunzio, Falla (2020): Interpretable machine learning models for classifying low back pain status using functional physiological variables. <i>To appear in the European Spine Journal.</i></li>
 <li> Liew, <b>R&uuml;gamer</b>, St&ouml;cker, De Nunzio (2020): Classifying neck pain status using scalar and functional biomechanical variables - development of a method using functional data boosting. <i>To appear in Gait and Posture.</i></li>
 <li> <b>R&uuml;gamer</b>, Greven (2020): <a href="https://doi.org/10.1007/s11222-019-09882-0">Inference for L2-Boosting.</a> <i>Statistics and Computing volume 30, 279-289.</i></li>
@@ -58,8 +58,3 @@ Talks, Workshops and Research Stays
 + __9. - 11. December 2016 (Seville, ESP)__ Boosting Factor-Specific Functional Historical Models. *9th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2016)*
 + __30. November 2016 (Munich, GER)__ Selective Inference for L2-Boosting. *Institutskolloquium, Department of Statistics LMU, Munich*
 
-Recent Reviewer Activities
----------------
-+ ECML-PKKD 2020 (Research Track)
-+ Artificial Intelligence in Medicine (Journal)
-+ Biostatistics (Journal)

@@ -15,7 +15,7 @@ Publications
 ---------------
 
 <ul>
-<li> <b>R&uuml;gamer</b>, Pfisterer, Bischl (2020): Neural Mixture Density Regression. <i>Submitted.</i></li>
+<li> <b>R&uuml;gamer</b>, Pfisterer, Bischl (2020): Neural Mixture Density Regression. <i>Under Revision.</i></li>
 <li> Bender, <b>R&uuml;gamer</b>, Scheipl, Bischl (2020): <a href="http://arxiv.org/abs/2006.15442">A General Machine Learning Framework for Survival Analysis.</a> <i>ECML-PKDD 2020.</i></li>
 <li> Berninger, St&ouml;cker, <b>R&uuml;gamer</b> (2020): A Bayesian Time-Varying Autoregressive Model for Improved Short- and Long-Term Prediction. <i>Under Revision.</i></li>
 <li> <b>R&uuml;gamer</b>, Baumann, Greven (2020): Selective Inference for Additive and Mixed Models. <i>Under Revision.</i></li>

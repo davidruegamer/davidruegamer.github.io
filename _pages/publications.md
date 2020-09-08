@@ -15,18 +15,19 @@ Publications
 ---------------
 
 <ul>
+<li> <b>R&uuml;gamer</b>, Pfisterer, Bischl (2020): Neural Mixture Density Regression. <i>Submitted.</i></li>
 <li> Bender, <b>R&uuml;gamer</b>, Scheipl, Bischl (2020): <a href="http://arxiv.org/abs/2006.15442">A General Machine Learning Framework for Survival Analysis.</a> <i>ECML-PKDD 2020.</i></li>
 <li> Berninger, St&ouml;cker, <b>R&uuml;gamer</b> (2020): A Bayesian Time-Varying Autoregressive Model for Improved Short- and Long-Term Prediction. <i>Under Revision.</i></li>
 <li> <b>R&uuml;gamer</b>, Baumann, Greven (2020): Selective Inference for Additive and Mixed Models. <i>Under Revision.</i></li>
 <li> <b>R&uuml;gamer</b>, Kolb and Klein (2020): <a href="https://arxiv.org/abs/2002.05777">A Unified Network Architecture for Semi-Structured Deep Distributional Regression.</a> <i>Under Revision.</i></li>
-<li> Liew, <b>R&uuml;gamer</b>, De Nunzio, Falla (2020): Interpretable machine learning models for classifying low back pain status using functional physiological variables. <i>To appear in the European Spine Journal.</i></li>
-<li> Liew, <b>R&uuml;gamer</b>, St&ouml;cker, De Nunzio (2020): Classifying neck pain status using scalar and functional biomechanical variables - development of a method using functional data boosting. <i>To appear in Gait and Posture.</i></li>
+<li> Liew, <b>R&uuml;gamer</b>, De Nunzio, Falla (2020): Interpretable machine learning models for classifying low back pain status using functional physiological variables. <i>European Spine Journal 29, 1845 -- 1859.</i></li>
+<li> Liew, <b>R&uuml;gamer</b>, St&ouml;cker, De Nunzio (2020): Classifying neck pain status using scalar and functional biomechanical variables - development of a method using functional data boosting. <i>Gait and Posture 76, 146 -- 150.</i></li>
 <li> <b>R&uuml;gamer</b>, Greven (2020): <a href="https://doi.org/10.1007/s11222-019-09882-0">Inference for L2-Boosting.</a> <i>Statistics and Computing volume 30, 279-289.</i></li>
+<li> Brockhaus, <b>R&uuml;gamer</b>, Greven (2020): <a href="http://arxiv.org/abs/1705.10662">Boosting Functional Regression Models with FDboost.</a> <i>Journal of Statistical Software, 94 (10), 1 -- 50.</i> </li> 
 <li> <b>R&uuml;gamer</b>, Greven (2018): <a href="https://www.sciencedirect.com/science/article/pii/S0167715218301640">Selective inference after likelihood- or test-based model selection in linear models.</a> <i>Statistics & Probability Letters. Volume 140, Pages 7-12.</i> </li>
   <li> S&auml;fken, <b>R&uuml;gamer</b>, Kneib, Greven (2018): <a href="https://arxiv.org/abs/1803.05664">Conditional Model Selection in Mixed-Effects Models with cAIC4.</a> <i>To appear in the Journal of Statistical Software.</i> </li>
   <li> <b>R&uuml;gamer</b>, Brockhaus, Gentsch, Scherer, Greven (2018): <a href="http://arxiv.org/abs/1609.06070">Boosting Factor-Specific Functional Historical Models for the
 Detection of Synchronisation in Bioelectrical Signals.</a> <i>Journal of the Royal Statistical Society, Series C, 67: 621-642.</i> </li>
-<li> Brockhaus, <b>R&uuml;gamer</b>, Greven (2017): <a href="http://arxiv.org/abs/1705.10662">Boosting Functional Regression Models with FDboost.</a> <i>To appear in the Journal of Statistical Software.</i> </li> 
  <li> Kl&uuml;ser, Holler, Simak, Tater, Smets, <b>R&uuml;gamer</b>, K&uuml;chenhoff, Wess (2016): <a href="http://www.ncbi.nlm.nih.gov/pubmed/27177626">Predictors of Sudden Cardiac Death in Doberman Pinschers with Dilated Cardiomyopathy.</a> <i>Journal of Veterinary Internal Medicine, volume 3, number 3, 722--732</i>. </li>
   <li> Gillhuber, <b>Rügamer</b>, Pfister, Scheuerle (2014). Giardiosis and other enteropathogenic infections: a study on diarrhoeic calves in Southern Germany. BMC Research Notes, 7, 112.</li>
 </ul>
@@ -48,6 +49,7 @@ Software (R-packages)
 Talks, Workshops and Research Stays
 ---------------
 
++ __29. July '20 (Munich, GER)__ Semi-Structured Deep Distributional Regression. *Virtual Workshop by the Munich Center of Machine Learning*
 + __26. February '20 (Munich, GER)__ Semi-Structured Deep Distributional Learning. *Institutskolloquium, Department of Statistics, LMU Munich*
 + __January '20 (Xiamen, CHN)__ Short research stay and exchange with several people involved in the DFG RTG group [High Dimensional Nonstationary Time Series](https://www.wiwi.hu-berlin.de/de/forschung/irtg/)  
 + __21. March '19 (Munich, GER)__ Inference for L2-Boosting, DAGSTAT 2019, Machine Learning Session

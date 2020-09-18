@@ -15,6 +15,7 @@ Publications
 ---------------
 
 <ul>
+<li> Liew, Peolsson, <b>R&uuml;gamer</b>, Wibault, L&ouml;fgren, Dedering, Zsigmond, Falla (2020): Clinical predictive modelling of post-surgical recovery in individuals with cervical radiculopathy - a machine learning approach. <i>Accepted at Scientific Reports - Nature</i></li>
 <li> <b>R&uuml;gamer</b>, Pfisterer, Bischl (2020): Neural Mixture Density Regression. <i>Under Revision.</i></li>
 <li> Bender, <b>R&uuml;gamer</b>, Scheipl, Bischl (2020): <a href="http://arxiv.org/abs/2006.15442">A General Machine Learning Framework for Survival Analysis.</a> <i>ECML-PKDD 2020.</i></li>
 <li> Berninger, St&ouml;cker, <b>R&uuml;gamer</b> (2020): A Bayesian Time-Varying Autoregressive Model for Improved Short- and Long-Term Prediction. <i>Under Revision.</i></li>

@@ -15,8 +15,10 @@ Publications
 ---------------
 
 <ul>
+<li> Goschenhofer, ..., <b>R&uuml;gamer</b>, ... Bischl (2020): Deep Semi-Supervised Learning for Time Series Classification. <i>Under Revision.</i></li>
+<li> Baumann, Hothorn, <b>R&uuml;gamer</b> (2020): <a href="https://arxiv.org/abs/2010.07860">Deep Conditional Transformation Models.</a> <i>Under Revision.</i></li>
 <li> Liew, Peolsson, <b>R&uuml;gamer</b>, Wibault, L&ouml;fgren, Dedering, Zsigmond, Falla (2020): Clinical predictive modelling of post-surgical recovery in individuals with cervical radiculopathy - a machine learning approach. <i>Accepted at Scientific Reports - Nature</i></li>
-<li> <b>R&uuml;gamer</b>, Pfisterer, Bischl (2020): Neural Mixture Density Regression. <i>Under Revision.</i></li>
+<li> <b>R&uuml;gamer</b>, Pfisterer, Bischl (2020): <a href="https://arxiv.org/abs/2010.06889">Neural Mixture Density Regression.</a> <i>Under Revision.</i></li>
 <li> Bender, <b>R&uuml;gamer</b>, Scheipl, Bischl (2020): <a href="http://arxiv.org/abs/2006.15442">A General Machine Learning Framework for Survival Analysis.</a> <i>ECML-PKDD 2020.</i></li>
 <li> Berninger, St&ouml;cker, <b>R&uuml;gamer</b> (2020): A Bayesian Time-Varying Autoregressive Model for Improved Short- and Long-Term Prediction. <i>Under Revision.</i></li>
 <li> <b>R&uuml;gamer</b>, Baumann, Greven (2020): Selective Inference for Additive and Mixed Models. <i>Under Revision.</i></li>
@@ -51,6 +53,8 @@ Software (R-packages)
 Talks, Workshops and Research Stays
 ---------------
 
++ __28. October '20 (Dortmund, GER)__ Semi-Structured Deep Distributional Regression. *Regression approaches for large-scale high-dimensional data, Dortmund Data Science Centers*
++ __15. October '20 (Bonn, GER)__ Semi-Structured Deep Distributional Regression. *(Virtual) Institutskolloquium IMBIE*
 + __29. July '20 (Munich, GER)__ Semi-Structured Deep Distributional Regression. *Virtual Workshop by the Munich Center of Machine Learning*
 + __26. February '20 (Munich, GER)__ Semi-Structured Deep Distributional Learning. *Institutskolloquium, Department of Statistics, LMU Munich*
 + __January '20 (Xiamen, CHN)__ Short research stay and exchange with several people involved in the DFG RTG group [High Dimensional Nonstationary Time Series](https://www.wiwi.hu-berlin.de/de/forschung/irtg/)  

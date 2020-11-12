@@ -15,6 +15,7 @@ Publications
 ---------------
 
 <ul>
+<li> Kopper, P&ouml;lsterl, Wachinger, Bischl, Bender & <b>R&uuml;gamer</b> (2020): <a href="https://arxiv.org/abs/2011.05824">Semi-Supervised Deep Piecewise Exponential Models.</a> <i>Under Revision.</i></li>
 <li> Goschenhofer, ..., <b>R&uuml;gamer</b>, ... Bischl (2020): Deep Semi-Supervised Learning for Time Series Classification. <i>Under Revision.</i></li>
 <li> Baumann, Hothorn, <b>R&uuml;gamer</b> (2020): <a href="https://arxiv.org/abs/2010.07860">Deep Conditional Transformation Models.</a> <i>Under Revision.</i></li>
 <li> Liew, Peolsson, <b>R&uuml;gamer</b>, Wibault, L&ouml;fgren, Dedering, Zsigmond, Falla (2020): Clinical predictive modelling of post-surgical recovery in individuals with cervical radiculopathy - a machine learning approach. <i>Accepted at Scientific Reports - Nature</i></li>

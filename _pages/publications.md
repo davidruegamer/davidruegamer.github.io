@@ -15,6 +15,7 @@ Publications
 ---------------
 
 <ul>
+<li> Fritz, Dorigatti & <b>R&uuml;gamer</b> (2020): <a href="https://arxiv.org/abs/2101.00661">Combining Graph Neural Networks and Spatio-temporal Disease Models to Predict COVID-19 Cases in Germany.</a> <i>Under Revision.</i></li>
 <li> Kopper, P&ouml;lsterl, Wachinger, Bischl, Bender & <b>R&uuml;gamer</b> (2020): <a href="https://arxiv.org/abs/2011.05824">Semi-Structured Deep Piecewise Exponential Models.</a> <i>Under Revision.</i></li>
 <li> Goschenhofer, ..., <b>R&uuml;gamer</b>, ... Bischl (2020): Deep Semi-Supervised Learning for Time Series Classification. <i>Under Revision.</i></li>
 <li> Baumann, Hothorn, <b>R&uuml;gamer</b> (2020): <a href="https://arxiv.org/abs/2010.07860">Deep Conditional Transformation Models.</a> <i>Under Revision.</i></li>

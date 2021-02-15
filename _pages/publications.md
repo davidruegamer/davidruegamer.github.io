@@ -17,7 +17,7 @@ Publications
 <ul>
 <li> Goschenhofer, Hvingelby <b>R&uuml;gamer</b>, Thomas, Wagner, Bischl (2021): <a href="https://arxiv.org/abs/2102.03622">Deep Semi-Supervised Learning for Time Series Classification.</a> <i>Under Revision.</i></li>
 <li> Fritz, Dorigatti, <b>R&uuml;gamer</b> (2021): <a href="https://arxiv.org/abs/2101.00661">Combining Graph Neural Networks and Spatio-temporal Disease Models to Predict COVID-19 Cases in Germany.</a> <i>Under Revision.</i></li>
-<li> Kopper, P&ouml;lsterl, Wachinger, Bischl, Bender, <b>R&uuml;gamer</b> (2020): <a href="https://arxiv.org/abs/2011.05824">Semi-Structured Deep Piecewise Exponential Models.</a> <i>Under Revision.</i></li>
+<li> Kopper, P&ouml;lsterl, Wachinger, Bischl, Bender, <b>R&uuml;gamer</b> (2020): <a href="https://arxiv.org/abs/2011.05824">Semi-Structured Deep Piecewise Exponential Models.</a> <i>Accepted at the AAAI Spring Symposium 2021.</i></li>
 <li> Baumann, Hothorn, <b>R&uuml;gamer</b> (2020): <a href="https://arxiv.org/abs/2010.07860">Deep Conditional Transformation Models.</a> <i>Under Revision.</i></li>
 <li> Liew, Peolsson, <b>R&uuml;gamer</b>, Wibault, L&ouml;fgren, Dedering, Zsigmond, Falla (2020): Clinical predictive modelling of post-surgical recovery in individuals with cervical radiculopathy - a machine learning approach. <i>Accepted at Scientific Reports - Nature</i></li>
 <li> <b>R&uuml;gamer</b>, Pfisterer, Bischl (2020): <a href="https://arxiv.org/abs/2010.06889">Neural Mixture Density Regression.</a> <i>Under Revision.</i></li>

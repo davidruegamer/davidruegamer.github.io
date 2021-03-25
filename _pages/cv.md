@@ -13,10 +13,17 @@ author_profile: true
 
 Experience
 ---------------
-
-__01.2020 - today__<br/>
+__04.2021 - today__<br/>
 LMU Munich<br/>
-Postdoctoral Research Fellow & Lecturer
+Interim Professor (W2) for Data Science
+
+__06.2020 - 03.2021__<br/>
+LMU Munich<br/>
+Lecturer
+
+__01.2020 - 05.2020__<br/>
+LMU Munich<br/>
+Postdoctoral Research Fellow
 
 __01.2019 - 12.2019__<br/>
 CYOSS GmbH<br/>

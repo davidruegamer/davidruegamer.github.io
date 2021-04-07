@@ -44,7 +44,7 @@ Detection of Synchronisation in Bioelectrical Signals.</a> <i>Journal of the Roy
 Software (R-packages)
 ---------------
 
-+ `deepregression` *Semi-Strutured Deep Distrobutional Regression* on [Github]()
++ `deepregression` *Semi-Strutured Deep Distrobutional Regression* on [Github](https://github.com/davidruegamer/deepregression/)
 + `selfmade`  *SELective inference For Mixed and ADditive model Estimators* on [Github](https://github.com/davidruegamer/selfmade/) and soon on CRAN.
 + `FDboost`  *Boosting Functional Regression Models* on [CRAN](https://cran.r-project.org/web/packages/FDboost/index.html) and [github](https://github.com/boost-R/FDboost)
 + `cAIC4`  *Conditional Akaike Information Criterion for 'lme4'* on [CRAN](https://cran.r-project.org/web/packages/cAIC4/index.html) and [Github](https://github.com/davidruegamer/cAIC4dev)

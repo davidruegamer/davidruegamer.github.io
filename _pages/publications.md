@@ -15,6 +15,7 @@ Publications
 ---------------
 
 <ul>
+<li> <b>R&uuml;gamer</b>, et al. (2021): <a href="https://arxiv.org/abs/2104.02705">deepregression: a Flexible Neural Network Framework for Semi-Structured Deep Distributional Regression.</i></li>
 <li> Liew, Lee, <b>R&uuml;gamer</b>, Nunzio, Heneghan, Falla, Evans (2021): A novel metric of reliability in pressure pain threshold measurement. <i>Accepted at Scientific Reports - Nature</i></li>
 <li> Goschenhofer, Hvingelby <b>R&uuml;gamer</b>, Thomas, Wagner, Bischl (2021): <a href="https://arxiv.org/abs/2102.03622">Deep Semi-Supervised Learning for Time Series Classification.</a> <i>Under Revision.</i></li>
 <li> Fritz, Dorigatti, <b>R&uuml;gamer</b> (2021): <a href="https://arxiv.org/abs/2101.00661">Combining Graph Neural Networks and Spatio-temporal Disease Models to Predict COVID-19 Cases in Germany.</a> <i>Under Revision.</i></li>
@@ -43,13 +44,13 @@ Detection of Synchronisation in Bioelectrical Signals.</a> <i>Journal of the Roy
 Software (R-packages)
 ---------------
 
-+ `deepregression` *Semi-Strutured Deep Distrobutional Regression* coming soon
-+ `selfmade`  *SELective inference For Mixed and ADditive model Estimators* on [github](https://github.com/davidruegamer/selfmade/) and soon on CRAN.
++ `deepregression` *Semi-Strutured Deep Distrobutional Regression* on [Github]()
++ `selfmade`  *SELective inference For Mixed and ADditive model Estimators* on [Github](https://github.com/davidruegamer/selfmade/) and soon on CRAN.
 + `FDboost`  *Boosting Functional Regression Models* on [CRAN](https://cran.r-project.org/web/packages/FDboost/index.html) and [github](https://github.com/boost-R/FDboost)
-+ `cAIC4`  *Conditional Akaike Information Criterion for 'lme4'* on [CRAN](https://cran.r-project.org/web/packages/cAIC4/index.html) and [github](https://github.com/davidruegamer/cAIC4dev)
-+ `iboost`  *Inference for Model-based Boosting* on [github](https://github.com/davidruegamer/iboost)
-+ `coinflibs`  *Conditional Inference after Likelihood-based Selection* on [github](https://github.com/davidruegamer/coinflibs)
-+ `effortless`  *efficient operations on row-wise tensor product linked evaluations with special structures* on [github](https://github.com/davidruegamer/effortless)
++ `cAIC4`  *Conditional Akaike Information Criterion for 'lme4'* on [CRAN](https://cran.r-project.org/web/packages/cAIC4/index.html) and [Github](https://github.com/davidruegamer/cAIC4dev)
++ `iboost`  *Inference for Model-based Boosting* on [Github](https://github.com/davidruegamer/iboost)
++ `coinflibs`  *Conditional Inference after Likelihood-based Selection* on [Github](https://github.com/davidruegamer/coinflibs)
++ `effortless`  *efficient operations on row-wise tensor product linked evaluations with special structures* on [Github](https://github.com/davidruegamer/effortless)
 
 
 

@@ -24,7 +24,7 @@ Publications
 <li> Liew, Peolsson, <b>R&uuml;gamer</b>, Wibault, L&ouml;fgren, Dedering, Zsigmond, Falla (2020): Clinical predictive modelling of post-surgical recovery in individuals with cervical radiculopathy - a machine learning approach. <i>Accepted at Scientific Reports - Nature</i></li>
 <li> <b>R&uuml;gamer</b>, Pfisterer, Bischl (2020): <a href="https://arxiv.org/abs/2010.06889">Neural Mixture Density Regression.</a> <i>Under Revision.</i></li>
 <li> Bender, <b>R&uuml;gamer</b>, Scheipl, Bischl (2020): <a href="http://arxiv.org/abs/2006.15442">A General Machine Learning Framework for Survival Analysis.</a> <i>ECML-PKDD 2020.</i></li>
-<li> Berninger, St&ouml;cker, <b>R&uuml;gamer</b> (2020): A Bayesian Time-Varying Autoregressive Model for Improved Short- and Long-Term Prediction. <i>Under Revision.</i></li>
+<li> Berninger, St&ouml;cker, <b>R&uuml;gamer</b> (2020): A Bayesian Time-Varying Autoregressive Model for Improved Short- and Long-Term Prediction. <i>Accepted at the Journal of Forecasting.</i></li>
 <li> <b>R&uuml;gamer</b>, Baumann, Greven (2020): Selective Inference for Additive and Mixed Models. <i>Under Revision.</i></li>
 <li> <b>R&uuml;gamer</b>, Kolb and Klein (2020): <a href="https://arxiv.org/abs/2002.05777">A Unified Network Architecture for Semi-Structured Deep Distributional Regression.</a> <i>Under Revision.</i></li>
 <li> Liew, <b>R&uuml;gamer</b>, Abichandani, De Nunzio (2020): <a href="https://www.sciencedirect.com/science/article/abs/pii/S0966636220301843">Classifying individuals with and without patellofemoral pain syndrome using ground force profiles - Development of a method using functional data boosting.</a> <i>Gait & Posture, 80, 90-95</i></li>

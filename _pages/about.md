@@ -21,8 +21,8 @@ My current research involves the development of **uncertainty quantification app
 
 I am committed to advancing my research field through active participation in the academic community: 
 * as an action editor for the [JSS](https://www.jstatsoft.org/index) and an associate editor for [AStA](https://www.springer.com/journal/10182), 
-* as reviewer for many statistics and machine learning journals, including *Biometrika*, *Electronic Journal of Statistics*, *Journal of American Statistical Association*, *Journal of Graphical and Computational Statistics*, *Journal of Machine Learning Research*, *Statistics and Computing*, 
-* as a regular reviewer/PC for the top machine learning conferences, including *AAAI*, *AISTATS*, *ECML-PKDD*, *ICML*, *ICRL*, *NeurIPS*, *UAI*, where I am repeatedly among the top reviewers. 
+* as reviewer for many statistics and machine learning journals, including *Biometrika*, *Electronic Journal of Statistics*, *Journal of American Statistical Association*, *Journal of Graphical and Computational Statistics*, *Journal of Machine Learning Research*, *Statistics and Computing*, and
+* as a regular reviewer/PC for the top machine learning conferences, including *AAAI*, *AISTATS*, *ECML-PKDD*, *ICML*, *ICLR*, *NeurIPS*, *UAI*, where I am repeatedly among the top reviewers. 
 
 If you want to find out more, visit my [group's homepage](https://datascience-lmu.github.io/website/), where you can find information about the awesome people I work with, our teaching as well as recent news.
 

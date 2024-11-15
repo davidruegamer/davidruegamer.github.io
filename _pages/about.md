@@ -20,7 +20,7 @@ I am Associate Professor at the LMU Munich, heading the [Data Science Group](htt
 My current research involves the development of **uncertainty quantification** for deep learning approaches (using e.g. a [Bayesian paradigm](https://proceedings.mlr.press/v235/papamarkou24b.html)), the **unification of concepts** from statistics and deep learning, and studying [**overparametrization** in neural networks](https://arxiv.org/abs/2307.03571). See also my [Google Scholar profile](https://scholar.google.de/citations?hl=de&user=_DYguksAAAAJ&view_op=list_works&sortby=pubdate) for some of my recent research.
 
 I am committed to advancing my research field through active participation in the academic community: 
-* as an action editor for the [JSS](https://www.jstatsoft.org/index), 
+* as an action editor for the [JSS](https://www.jstatsoft.org/index) and [TMLR](https://jmlr.org/tmlr/), 
 * as an area chair for several conferences such as *NeurIPS* and *UAI*,
 * as reviewer for many statistics and machine learning journals, including *Biometrika*, *Electronic Journal of Statistics*, *Journal of American Statistical Association*, *Journal of Graphical and Computational Statistics*, *Journal of Machine Learning Research*, and
 * as reviewer for the top machine learning conferences, including *AAAI*, *AISTATS*, *ICML*, *ICLR*, *NeurIPS*, *UAI*, where I am repeatedly among the top reviewers. 

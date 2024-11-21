@@ -66,6 +66,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: davidruegamer
 linkedin_username: david-ruegamer  
 scholar_userid: _DYguksAAAAJ
+bluesky_url: davidruegamer.bsky.social
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification

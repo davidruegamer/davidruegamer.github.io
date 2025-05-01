@@ -27,7 +27,7 @@ I am committed to advancing my research field through active participation in th
 * as reviewer for the top machine learning conferences, including *AISTATS*, *ICML*, *ICLR*, *NeurIPS*, *UAI*, where I am repeatedly among the top reviewers,
 * participating in strategic meetings aimed at shaping the direction of research in the field, such as [Dagstuhl](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/24461).
 
-If you want to find out more, visit my [group's homepage](https://datascience-lmu.github.io/website/), where you can find information about the awesome people I work with, our teaching as well as recent news.
+If you want to find out more, visit my [group's homepage](https://www.muniq.ai), where you can find information about the awesome people I work with, our teaching as well as recent news.
 
 
 

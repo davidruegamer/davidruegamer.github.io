@@ -22,7 +22,7 @@ My current research involves the development of **uncertainty quantification** f
 
 I am committed to advancing my research field through active participation in the academic community: 
 * as an action editor for the [JSS](https://www.jstatsoft.org/index) and [TMLR](https://jmlr.org/tmlr/), 
-* as an area chair for several conferences such as *ICLR*, *ICML*, *NeurIPS*, and *UAI*,
+* as an area chair for several conferences such as *AIStats*, *ICLR*, *ICML*, *NeurIPS*, and *UAI*,
 * as reviewer for many top-tier journals, including *Biometrika*, *EJS*, *JASA*, *JCGS*, *JMLR*, 
 * as reviewer for the top machine learning conferences, including *AISTATS*, *ICML*, *ICLR*, *NeurIPS*, *UAI*, where I am repeatedly among the top reviewers,
 * participating in strategic meetings aimed at shaping the direction of research in the field, such as [Dagstuhl](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/24461).

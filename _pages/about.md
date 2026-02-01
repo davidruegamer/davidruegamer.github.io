@@ -21,13 +21,14 @@ Excellence in Reliable AI (relAI)](https://zuseschoolrelai.de/), and also a Prin
 My current research involves the development of **uncertainty quantification** for deep learning approaches (using e.g. a [Bayesian paradigm](https://proceedings.mlr.press/v235/papamarkou24b.html)), the **unification of concepts** from statistics and deep learning, and studying [**overparametrization** in neural networks](https://arxiv.org/abs/2307.03571). See also my [Google Scholar profile](https://scholar.google.de/citations?hl=de&user=_DYguksAAAAJ&view_op=list_works&sortby=pubdate) for some of my recent research.
 
 I am committed to advancing my research field through active participation in the academic community: 
-* as an action editor for the [JSS](https://www.jstatsoft.org/index) and [TMLR](https://jmlr.org/tmlr/), 
+* as an action editor for the [JSS](https://www.jstatsoft.org/index) and [TMLR](https://jmlr.org/tmlr/),
+* as a program chair for [ProbML](probml.cc) (formely *AABI*),
 * as an area chair for several conferences such as *AIStats*, *ICLR*, *ICML*, *NeurIPS*, and *UAI*,
 * as reviewer for many top-tier journals, including *Biometrika*, *EJS*, *JASA*, *JCGS*, *JMLR*, 
 * as reviewer for the top machine learning conferences, including *AIStats*, *ICML*, *ICLR*, *NeurIPS*, *UAI*, where I am repeatedly among the top reviewers,
 * participating in strategic meetings aimed at shaping the direction of research in the field, such as [Dagstuhl](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/24461).
 
-If you want to find out more, visit my [group's homepage](https://www.muniq.ai), where you can find information about the awesome people I work with, our teaching as well as recent news.
+If you want to find out more, visit my [group's homepage](https://www.muniq.ai), where you can find information about the awesome people I work with, our teaching, as well as recent news.
 
 
 

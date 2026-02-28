@@ -1,0 +1,154 @@
+/*******************************************************************************
+ * Minimal modern refresh
+ ******************************************************************************/
+
+:root {
+  --global-theme-color: #0f766e;
+  --global-hover-color: #0a5d57;
+}
+
+html[data-theme="dark"] {
+  --global-theme-color: #22c1b8;
+  --global-hover-color: #53d7cf;
+}
+
+body {
+  font-family: "Manrope", "Segoe UI", sans-serif;
+  line-height: 1.75;
+  letter-spacing: 0.01em;
+  background:
+    radial-gradient(circle at top right, rgba(15, 118, 110, 0.1), transparent 42%),
+    radial-gradient(circle at bottom left, rgba(23, 41, 56, 0.08), transparent 44%),
+    var(--global-bg-color);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Fraunces", "Georgia", serif;
+  letter-spacing: 0.01em;
+}
+
+.post {
+  padding-top: 1.25rem;
+}
+
+.post .post-header {
+  margin-bottom: 2.25rem;
+}
+
+.post .post-header .post-title {
+  font-size: clamp(2.2rem, 4vw, 3.6rem);
+  line-height: 1.08;
+  margin-bottom: 0.4rem;
+}
+
+.post .post-header .desc {
+  font-size: 1.05rem;
+  opacity: 0.9;
+}
+
+.post article p,
+.post article li {
+  font-size: 1.045rem;
+}
+
+.post article > * {
+  animation: fade-up 0.6s ease both;
+}
+
+.post article > *:nth-child(2) {
+  animation-delay: 0.06s;
+}
+
+.post article > *:nth-child(3) {
+  animation-delay: 0.12s;
+}
+
+.post article > *:nth-child(4) {
+  animation-delay: 0.18s;
+}
+
+a {
+  text-underline-offset: 0.16em;
+  text-decoration-thickness: 0.08em;
+}
+
+.navbar {
+  background-color: color-mix(in srgb, var(--global-bg-color) 88%, transparent);
+  backdrop-filter: blur(9px);
+}
+
+.card {
+  border: 1px solid var(--global-divider-color);
+  border-radius: 14px;
+  box-shadow: 0 14px 32px rgba(2, 8, 20, 0.07);
+  transition: transform 0.22s ease, box-shadow 0.22s ease;
+}
+
+.card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 18px 34px rgba(2, 8, 20, 0.11);
+}
+
+/* Make profile image block larger on desktop while staying tidy on small screens */
+.profile.float-right,
+.profile.float-left {
+  margin-top: 0.25rem;
+}
+
+@media (max-width: 575px) {
+  .post {
+    padding-top: 0.65rem;
+  }
+
+  .post .post-header {
+    margin-bottom: 1.35rem;
+  }
+
+  .profile {
+    width: 100% !important;
+    max-width: 340px;
+  }
+
+  .profile.float-right,
+  .profile.float-left {
+    float: none !important;
+    margin: 0 auto 1.25rem;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 1023px) {
+  .profile {
+    width: 38% !important;
+  }
+}
+
+@media (min-width: 1024px) {
+  .profile {
+    width: 40% !important;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .post article > *,
+  .card {
+    animation: none !important;
+    transition: none !important;
+  }
+}
+
+@keyframes fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

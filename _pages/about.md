@@ -25,8 +25,6 @@ I am committed to advancing my research field through active participation in th
 * as a program chair for [ProbML](http://www.probml.cc/) (formely *AABI*),
 * as chair for the Position Paper Track (*NeurIPS*),
 * as an area chair for several conferences such as *AIStats*, *ICLR*, *ICML*, *NeurIPS*, and *UAI*,
-* as reviewer for many top-tier journals, including *Biometrika*, *EJS*, *JASA*, *JCGS*, *JMLR*, 
-* as reviewer for the top machine learning conferences, including *AIStats*, *ICML*, *ICLR*, *NeurIPS*, *UAI*, where I am repeatedly among the top reviewers,
 * participating in strategic meetings aimed at shaping the direction of research in the field, such as [Dagstuhl](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/24461).
 
 If you want to find out more, visit my [group's homepage](https://www.muniq.ai), where you can find information about the awesome people I work with, our teaching, as well as recent news.
